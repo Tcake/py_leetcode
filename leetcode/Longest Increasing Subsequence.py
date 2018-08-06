@@ -42,6 +42,24 @@ class Solution(object):
 #                 dp[low] = nums[x]
 #         return len(dp)
 
+# import bisect
+# class Solution(object):
+#     def lengthOfLIS(self, nums):
+#         """
+#         :type nums: List[int]
+#         :rtype: int
+#         """
+#         if not nums:
+#             return 0
+#         tmp = [nums[0]]
+#         for i in nums:
+#             if i > tmp[-1]:
+#                 tmp.append(i)
+#             else:
+#                 n = bisect.bisect_left(tmp,i)
+#                 tmp[n] = i
+#         return len(tmp)
+
 import time
 a = Solution()
 t = time.time()
