@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="350c9eab-ca66-46ea-91e1-2cb6d7df09bf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/Cracking the Safe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/Rectangle Area II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Dungeon Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Reverse Nodes in k-Group.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Sliding Puzzle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/Longest Increasing Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Longest Increasing Subsequence.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,11 +28,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rectangle Area II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Rectangle Area II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/Rectangle Area II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+            <state relative-caret-position="337">
+              <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dungeon Game.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/Dungeon Game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sliding Puzzle.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/Sliding Puzzle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reverse Nodes in k-Group.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/Reverse Nodes in k-Group.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="56" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -93,6 +120,9 @@
         <option value="$PROJECT_DIR$/leetcode/Cracking the Safe.py" />
         <option value="$PROJECT_DIR$/leetcode/Longest Increasing Subsequence.py" />
         <option value="$PROJECT_DIR$/leetcode/Rectangle Area II.py" />
+        <option value="$PROJECT_DIR$/leetcode/Dungeon Game.py" />
+        <option value="$PROJECT_DIR$/leetcode/Sliding Puzzle.py" />
+        <option value="$PROJECT_DIR$/leetcode/Reverse Nodes in k-Group.py" />
       </list>
     </option>
   </component>
@@ -473,8 +503,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/Rectangle Area II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        <state relative-caret-position="337">
+          <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/Dungeon Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/Sliding Puzzle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/Reverse Nodes in k-Group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="56" selection-end-column="21" />
         </state>
       </provider>
     </entry>
