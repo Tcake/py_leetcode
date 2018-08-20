@@ -33,6 +33,7 @@ class Solution:
 
         return slave(s)
 
+
 a = Solution()
 s = "pineapplepenapple"
 wordDict = ["apple", "pen", "applepen", "pine", "pineapple"]
