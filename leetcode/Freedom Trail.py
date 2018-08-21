@@ -38,3 +38,5 @@ key1 = "ade"
 ring2 = "caotmcaataijjxi"
 key2 = "oatjiioicitatajtijciocjcaaxaaatmctxamacaamjjx"
 print(a.findRotateSteps(ring2, key2))
+
+# FIXME:未完成
